@@ -3,7 +3,7 @@
     "category": "com.microchip.ide.project",
     "content": {
         "metaDataVersion": "1.1.0",
-        "name": "com.microchip.mcu8.mplabx.project.pic16f18446-curiosity-lpc-ambient-light-to-sound",
+        "name": "com.microchip.mcu8.mplabx.project.pic16f18446-curiosity-lpc-uv-to-sound",
         "version": "1.0.1",
         "displayName": "UV Index Value to Sound Using ADCC",
         "projectName": "pic16f18446-curiosity-lpc-ambient-light-to-sound",
